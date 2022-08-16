@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Abrahams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abraham001l)](https://github.com/Abraham001l/github-readme-stats)
+<!-- [![Abrahams's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abraham001l)](https://github.com/Abraham001l/github-readme-stats) -->
 
 <!--
 **Abraham001l/Abraham001l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
